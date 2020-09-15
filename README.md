@@ -1,4 +1,4 @@
-# multiplication_table
+# multiplication_table (2019 1학기)
 운영체제 과제1 : 수를 입력하면 자동으로 곱셈 테이블 만드는 프로그램
 
 ## 구현 순서
