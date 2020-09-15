@@ -38,3 +38,15 @@
 	-k<j인 경우는 공백 형태로 출력되게 if else문 사용
 
 ```
+
+## system description
+![image](https://user-images.githubusercontent.com/52481037/93209985-d5f6ce00-f799-11ea-83ad-86cd4dc7cdc2.png)
+
+## test description
+![image](https://user-images.githubusercontent.com/52481037/93210092-00488b80-f79a-11ea-92c7-c171f3c33949.png)
+
+
+![image](https://user-images.githubusercontent.com/52481037/93210104-0474a900-f79a-11ea-8e67-3794db9c61d4.png)
+
+
+![image](https://user-images.githubusercontent.com/52481037/93210114-076f9980-f79a-11ea-91cf-aec313c735fc.png)
